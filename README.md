@@ -97,6 +97,7 @@ Analisar fatores que influenciaram a sobrevivência no desastre do Titanic.
 - Crianças tiveram maior taxa de resgate
 
 Projeto desenvolvido como prática de Análise de Dados.
+Link do Perfil/Projeto no Kaggle: https://www.kaggle.com/code/davifacci/facci-titanic
 
 
 ---
