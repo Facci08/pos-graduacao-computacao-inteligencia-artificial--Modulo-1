@@ -77,7 +77,7 @@ Organizar e consolidar o conhecimento teórico adquirido durante a pós-graduaç
 - Criar estudos de caso envolvendo modelagem de dados
 - Explorar aplicações práticas de IA
 
-# facci-titanic.ipynb - Análise de Dados - Titanic
+# [facci-titanic.ipynb](https://github.com/Facci08/pos-graduacao-computacao-inteligencia-artificial--Modulo-1/blob/f231b2ce992f667818327a2820b37e57fb6359f5/facci-titanic.ipynb) - Análise de Dados - Titanic
 
 Projeto de análise exploratória utilizando Python e Pandas.
 
