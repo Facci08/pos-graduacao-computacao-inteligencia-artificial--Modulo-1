@@ -77,6 +77,27 @@ Organizar e consolidar o conhecimento teórico adquirido durante a pós-graduaç
 - Criar estudos de caso envolvendo modelagem de dados
 - Explorar aplicações práticas de IA
 
+# Análise de Dados - Titanic
+
+Projeto de análise exploratória utilizando Python e Pandas.
+
+## Objetivo
+Analisar fatores que influenciaram a sobrevivência no desastre do Titanic.
+
+## Tecnologias
+- Python
+- Pandas
+- Matplotlib
+- Kaggle Notebook
+
+## Principais Insights
+- Mulheres tiveram maior taxa de sobrevivência
+- Passageiros da 1ª classe sobreviveram mais
+- Crianças tiveram maior taxa de resgate
+
+Projeto desenvolvido como prática de Análise de Dados.
+
+
 ---
 
 Autor: Davi Facci de Souza  
