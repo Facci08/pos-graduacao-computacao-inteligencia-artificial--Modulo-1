@@ -77,7 +77,7 @@ Organizar e consolidar o conhecimento teórico adquirido durante a pós-graduaç
 - Criar estudos de caso envolvendo modelagem de dados
 - Explorar aplicações práticas de IA
 
-# Análise de Dados - Titanic
+# facci-titanic.ipynb - Análise de Dados - Titanic
 
 Projeto de análise exploratória utilizando Python e Pandas.
 
